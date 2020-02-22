@@ -1,5 +1,5 @@
 const menu = document.querySelector('.mobile-menu img')
-const navbar = document.querySelector('nav ul')
+const navbar = document.querySelector('.navbar')
 
 menu.addEventListener('click',(e)=>{
     navbar.classList.toggle('nav-class')

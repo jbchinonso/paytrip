@@ -69,7 +69,7 @@ nav ul li a{
     height: 35px;
 }
 .nav-class{
-    display: grid;
+    display: inline;
 }
 #welcome-flex{
     width: 100%;

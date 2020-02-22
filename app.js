@@ -10,10 +10,9 @@ window.onclick = function(event){
         }
     
 }
-/** 
+ 
 menu.addEventListener('click',(e)=>{
     navbar.classList.toggle('nav-class')
     if(e.target !== menu) navbar.classList.remove('nav-class')
 })
 
-*/
